@@ -10,7 +10,7 @@ public class demo4_Detail {
         //浮点数 = 符号位 + 指数位 + 尾数位
         //尾数位可能会丢失
         float f = 3.14F;
-        double d = 9.99;
+        double d = 9.98;
 
 
     }
