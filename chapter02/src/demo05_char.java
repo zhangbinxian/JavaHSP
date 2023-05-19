@@ -1,4 +1,4 @@
-public class demo5_char {
+public class demo05_char {
     public static void main(String[] args) {
         char c1 = 'a';
         char c2 = '\t';

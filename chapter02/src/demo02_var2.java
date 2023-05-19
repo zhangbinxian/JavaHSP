@@ -1,4 +1,4 @@
-public class demo2_var2 {
+public class demo02_var2 {
     public static void main(String[] args) {
         int age = 18;
         double score = 88.5;

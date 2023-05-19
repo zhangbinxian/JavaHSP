@@ -1,6 +1,6 @@
 import java.lang.reflect.Type;
 
-public class demo8_AutoConvertDetail {
+public class demo08_AutoConvertDetail {
     public static void main(String[] args) {
 
         // char-->int-->long-->float-->double

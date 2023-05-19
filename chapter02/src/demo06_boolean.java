@@ -1,4 +1,4 @@
-public class demo6_boolean {
+public class demo06_boolean {
     public static void main(String[] args) {
         boolean pass = true;
         if (pass == true) {

@@ -1,4 +1,4 @@
-public class demo7_AutoConvert {
+public class demo07_AutoConvert {
     public static void main(String[] args) {
         // 精度小的类型可以自动转换为精度大的类型
         // char-->int-->long-->float-->double

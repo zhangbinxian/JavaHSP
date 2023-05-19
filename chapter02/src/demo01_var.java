@@ -1,4 +1,4 @@
-public class demo1_var {
+public class demo01_var {
     public static void main(String[] args) {
         int a = 100;
         int b = 200;

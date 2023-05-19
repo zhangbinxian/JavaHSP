@@ -1,4 +1,4 @@
-public class demo4_Detail {
+public class demo04_Detail {
     public static void main(String[] args) {
         //long 数据类型要在后面加L
         byte b = 1;

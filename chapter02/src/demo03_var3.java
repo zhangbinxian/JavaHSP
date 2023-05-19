@@ -1,6 +1,5 @@
-import java.lang.reflect.Parameter;
 
-public class demo3_var3 {
+public class demo03_var3 {
     public static void main(String[] args) {
         //5.md
         int a = 50;
