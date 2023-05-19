@@ -14,5 +14,7 @@ public class demo13_BasicToString {
         System.out.println(f1);
         System.out.println(d1);
         System.out.println(b1);
+
+        System.out.println("abc".charAt(0));
     }
 }
