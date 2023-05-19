@@ -8,6 +8,7 @@ public class demo01 {
         double d3 = 10.0 / 4;
         System.out.println(d3);
 
+
         System.out.println("=============================");
         System.out.println("取模本质:a % b = a - a / b * b");
         //结果的正负值与被除数一致
