@@ -26,7 +26,6 @@ public class demo01 {
         int j = 1;
         j = ++j;  //(1)i=i+1,(2)temp=i(3)i=temp;
         System.out.println(j);
-
     }
 }
 
