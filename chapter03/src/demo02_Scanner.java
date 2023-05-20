@@ -10,6 +10,7 @@ public class demo02_Scanner {
         int age = sc.nextInt();
         double score = sc.nextDouble();
 
+
         System.out.println("name=" + name + " age=" + age + " score=" + score);
     }
 }
