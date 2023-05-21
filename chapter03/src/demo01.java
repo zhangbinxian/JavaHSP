@@ -16,6 +16,9 @@ public class demo01 {
         System.out.println(-10 % 3);
         System.out.println(10 % -3);
         System.out.println(-10 % -3);
+        System.out.println(-10.5 % 3);
+        //a%b=a-a/b*b
+        //如果a为小数,a%b=a-(int)a/b*b;
 
 
         System.out.println("经典面试题");
