@@ -1,4 +1,4 @@
-public class demo4_bit2 {
+public class demo04_bit2 {
     public static void main(String[] args) {
         // >> 右移:符号位不变,低位溢出,符号位补溢出的高位
         // << 左移:符号位不变,低位补0
