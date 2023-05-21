@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class demo02_Scanner {
     public static void main(String[] args) {
 
+
         Scanner sc = new Scanner(System.in);
 
         System.out.println("请输入name,age,和score: ");
