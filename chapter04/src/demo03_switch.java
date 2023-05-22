@@ -15,7 +15,7 @@ public class demo03_switch {
                 System.out.println("星期二");
                 break;
             case 'c':
-                System.out.println("星期四");
+                System.out.println("星期三");
                 break;
             case 'd':
                 System.out.println("星期四");
