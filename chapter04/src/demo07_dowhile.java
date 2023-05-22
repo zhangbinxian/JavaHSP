@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class demo07_dowhile {
     public static void main(String[] args) {
         int i = 0;
