@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class demo09_test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
@@ -25,8 +25,6 @@ public class test {
                 System.out.print("-");
             }
             System.out.println();
-
-
         }
     }
 }
