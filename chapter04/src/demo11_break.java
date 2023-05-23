@@ -7,6 +7,7 @@ public class demo11_break {
         //     System.out.println(i);
         // }
 
+
         //break 可以使用标签，指定终止那一层
         label1:
         for (int i = 1; i <= 5; i++) {
