@@ -5,7 +5,11 @@ public class demo01_Array {
             a[i]=i;
         }
         for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
+            System.out.println("a "+a[i]);
+        }
+        double []d={1,2,3.4,4.5};
+        for (int i = 0; i <d.length ; i++) {
+            System.out.println("d "+d[i]);
         }
 
     }
