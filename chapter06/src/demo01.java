@@ -19,5 +19,4 @@ class People {
     String Garden;
     int Age;
 
-
 }
