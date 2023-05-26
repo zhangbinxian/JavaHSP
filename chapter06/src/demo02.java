@@ -1,14 +1,20 @@
 public class demo02 {
     public static void main(String[] args) {
-        P p1=new P();
-        p1.Name="xiaoming";
-        p1.Age=19;
+        People_demo02 p1 = new People_demo02();
+        p1.Name = "xiaoming";
+        p1.Age = 19;
 
-        P p2=p1;
-        System.out.println(p2.Name+" "+p2.Age);
+        People_demo02 p2 = p1;
+        System.out.println("p1 " + p1.Name + " " + p1.Age);
+        System.out.println("p2 " + p2.Name + " " + p2.Age);
+
+        p2.Age = 2220;
+        System.out.println("p1 " + p1.Name + " " + p1.Age);
+        System.out.println("p2 " + p2.Name + " " + p2.Age);
     }
 }
-class P{
+
+class People_demo02 {
     String Name;
     int Age;
 }
