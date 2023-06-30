@@ -62,6 +62,7 @@ class demo09_T {
                     map[i][j] = 3;
                     return false;
                 }
+
             } else {
                 //map[i][j]==1,2,3 1障碍物,2可以走(已经测试过了),3走过,死路
                 return false;
