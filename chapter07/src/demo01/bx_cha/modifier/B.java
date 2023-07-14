@@ -17,6 +17,7 @@ public class B {
     //同包不同类时，private修饰的属性和方法不可访问
     public void test() {
         A a = new A();
+
         a.func1();
         a.func2();
         a.func3();
