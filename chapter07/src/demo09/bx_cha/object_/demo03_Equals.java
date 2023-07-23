@@ -1,5 +1,7 @@
 package demo09.bx_cha.object_;
 
+import java.util.Objects;
+
 public class demo03_Equals {
     public static void main(String[] args) {
 
@@ -41,4 +43,5 @@ class Person {
         return false;
 
     }
+
 }
