@@ -33,8 +33,5 @@ public class demo04_homework04 {
         System.out.println("Upper=" + Upper);
         System.out.println("Lower=" + Lower);
         System.out.println("Num=" + Num);
-
     }
-
-
 }

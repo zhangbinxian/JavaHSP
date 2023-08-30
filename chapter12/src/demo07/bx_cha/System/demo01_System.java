@@ -9,7 +9,7 @@ public class demo01_System {
         // exit 退出程序
         System.out.println("hello1");
 
-        // exit(0),退出程序1，0表示一个状态，正常的状态
+        // exit(0),退出程序，0表示一个状态，正常的状态
         System.exit(0);
         System.out.println("hello2");
 

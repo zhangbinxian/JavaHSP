@@ -8,7 +8,7 @@ import java.util.Arrays;
  */
 public class demo02_System {
     public static void main(String[] args) {
-        // arraycopy 复制数组元素，比较适合1底层调用，一般使用Arrays.copyOf
+        // arraycopy 复制数组元素，比较适合底层调用，一般使用Arrays.copyOf
         int[] src = {1, 2, 3};
         // dest当前状态{0,0,0,0,0};
         int[] dest = new int[5];
