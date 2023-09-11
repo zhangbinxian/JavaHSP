@@ -34,11 +34,8 @@ public class demo06_Exercise {
         employees.sort(new Comparator<Employee>() {
             @Override
             public int compare(Employee o1, Employee o2) {
-                //先对传入的参数进行验证
-                if (!(o1 instanceof Employee && o2 instanceof Employee)) {
-                    System.out.println("类型不正确..");
-                    return 0;
-                }
+
+                //比较 name
                 int i = o1.getName().compareTo(o2.getName());
                 if (i != 0) {
                     return i;
