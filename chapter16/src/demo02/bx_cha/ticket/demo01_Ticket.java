@@ -59,8 +59,8 @@ class SellTicket01 extends Thread {
 }
 
 class SellTicket02 implements Runnable {
-    //static 该类的所有对象实例共享
-    private static int ticketNum = 100;
+
+    private int ticketNum = 100;
 
     @Override
     public void run() {
