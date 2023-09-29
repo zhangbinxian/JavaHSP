@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter18/chapter18.iml" filepath="$PROJECT_DIR$/chapter18/chapter18.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter19/chapter19.iml" filepath="$PROJECT_DIR$/chapter19/chapter19.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter20/chapter20.iml" filepath="$PROJECT_DIR$/chapter20/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21QQClient/chapter21QQClient.iml" filepath="$PROJECT_DIR$/chapter21QQClient/chapter21QQClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21QQServer/chapter21QQServer.iml" filepath="$PROJECT_DIR$/chapter21QQServer/chapter21QQServer.iml" />
     </modules>
   </component>
 </project>

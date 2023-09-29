@@ -20,4 +20,4 @@ abstract class B {
     public abstract void hi();
 }
 
-// 4. abstract只能修复类和方法，不能修饰其他
+// 4. abstract只能修饰类和方法，不能修饰其他
