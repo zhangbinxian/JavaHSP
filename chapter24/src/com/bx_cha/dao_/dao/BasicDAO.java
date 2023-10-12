@@ -1,7 +1,6 @@
 package com.bx_cha.dao_.dao;
 
 import com.bx_cha.dao_.utils.JDBCUtilsByDruid;
-import com.bx_cha.jdbc.jdbcUtils.JDBCUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
@@ -27,7 +26,7 @@ public class BasicDAO<T> {
         Connection connection = null;
 
         try {
-            connection = JDBCUtils.getConnection();
+            connection = JDBCUtilsByDruid.getConnection();
             int update = qr.update(connection, sql, parameters);
             return update;
         } catch (SQLException e) {
