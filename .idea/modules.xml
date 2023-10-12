@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter21QQClient/chapter21QQClient.iml" filepath="$PROJECT_DIR$/chapter21QQClient/chapter21QQClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter21QQServer/chapter21QQServer.iml" filepath="$PROJECT_DIR$/chapter21QQServer/chapter21QQServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter22/chapter22.iml" filepath="$PROJECT_DIR$/chapter22/chapter22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter24/chapter24.iml" filepath="$PROJECT_DIR$/chapter24/chapter24.iml" />
     </modules>
   </component>
 </project>
