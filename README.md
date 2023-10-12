@@ -1,4 +1,3 @@
-# JavaHSP
 # 韩顺平 零基础30天学会java 学习笔记
 # java 第一部分
 ## chapter01 初识java
