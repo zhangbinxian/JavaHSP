@@ -65,13 +65,16 @@
 ## chapter20 Socket
 [网络编程](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/20Socket.md)
 
-## chapter20 反射
+## chapter21 反射
 [反射](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/22Reflection.md)
 
-## chapter21 sql
+## chapter22 sql
 [SQL](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/23Sql.md)
 
-## chapter22 jdbc
+## chapter23 jdbc
 [JDBC](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/24jdbc.md)
+
+## chapter24 正则表达式
+[JDBC](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/26Regexp.md)
 
 
