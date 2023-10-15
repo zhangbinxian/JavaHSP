@@ -54,7 +54,7 @@ public class HorseChessBoard {
         //先把step 记录到 chessBoard
         chessBoard[row][col] = step;
         //把这个位置，设置为已经访问
-        visited[row * X + col] = true;
+        visited[row * X + col] = true;//visited[]是一维数组
         //获取当前这个位置可以走的下一个位置有哪些
         ArrayList<Point> ps = next(new Point(col, row)); // col - X , row - Y
         sort(ps);//排序.
