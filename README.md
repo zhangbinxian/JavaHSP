@@ -75,6 +75,6 @@
 [JDBC](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/24jdbc.md)
 
 ## chapter24 正则表达式
-[JDBC](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/26Regexp.md)
+[regexp](https://github.com/zhangbinxian/JavaHSP/blob/main/markdown/chapter9/26Regexp.md)
 
 
